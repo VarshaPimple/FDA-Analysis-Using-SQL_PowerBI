@@ -11,10 +11,15 @@ Power Bi
 
 # Key Insights Overview
 Increasing trend in drug approvals over the years.
+
 Top three years with highest and lowest number of approvals.
+
 Analysis of approval trends by sponsor applicants.
+
 Segmentation of products based on market status.
+
 Trends in dosage form distribution and successful forms.
+
 Therapeutic classes with highest number of approvals.
 
 Thank You!
